@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Day02ProgressSteps/static/css/main.4dd7362b.css",
+    "main.js": "/Day02ProgressSteps/static/js/main.2a546b6e.js",
+    "static/js/787.ca22d7cd.chunk.js": "/Day02ProgressSteps/static/js/787.ca22d7cd.chunk.js",
+    "index.html": "/Day02ProgressSteps/index.html",
+    "main.4dd7362b.css.map": "/Day02ProgressSteps/static/css/main.4dd7362b.css.map",
+    "main.2a546b6e.js.map": "/Day02ProgressSteps/static/js/main.2a546b6e.js.map",
+    "787.ca22d7cd.chunk.js.map": "/Day02ProgressSteps/static/js/787.ca22d7cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dd7362b.css",
+    "static/js/main.2a546b6e.js"
+  ]
+}
